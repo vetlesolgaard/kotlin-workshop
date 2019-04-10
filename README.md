@@ -9,5 +9,5 @@
 
 # Start å gjøre oppgaver
 - Oppgavene finner man i kotlin mappen (src -> main -> kotlin)
-- De er strukturert i mapper, der hver mappe er et overordnet tema der man inni selve mappene har oppgaver for hver fil; "task0X.kt"
+- De er strukturert i mapper, der hver mappe er et overordnet tema der man inni selve mappene har oppgaver for hver fil: "task0X.kt"
 - Start ved å teste environmentet i mappen "task01.testEnvironment" gå inn i filen som ligger i mappen og trykk på "play" ikonet.
